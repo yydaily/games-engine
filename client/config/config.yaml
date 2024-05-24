@@ -1,0 +1,7 @@
+server:
+  host: 127.0.0.1
+  port: 9527
+  max_data_body: 1024
+user:
+  username: username
+  password: password
